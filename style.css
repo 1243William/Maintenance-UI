@@ -1,0 +1,53 @@
+
+.timer-box {
+  background: #0014FF;
+  color: #fff;
+  border-radius: 0.4em;
+  font-family: "Barlow", sans-serif;
+  align-content: center;
+  font-size: 2rem;
+}
+
+.timer-box-num {
+  font-size: 20pt;
+  text-align: center;
+}
+
+.timer-box-text {
+  font-size: 9pt;
+  text-align: center;
+}
+
+.content {
+  font-family: "Barlow", sans-serif;
+}
+
+span.h4 {
+  font-family: "Barlow", sans-serif;
+}
+
+h4 {
+  font-size: 1.3rem;
+  font-family: "Monseratt",
+    sans-serif;
+}
+
+i {
+  color: black;
+}
+
+a > i.social-icon:hover {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.35);
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+  -webkit-box-shadow: 0 0 0 30px white inset !important;
+}
+
+#notifs-forn-input,
+#notifs-form-input:focus {
+  border: solid 2px #ccc;
+}
